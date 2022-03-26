@@ -1,2 +1,2 @@
 # git_study
-start with git
+start with git because the last one broken
